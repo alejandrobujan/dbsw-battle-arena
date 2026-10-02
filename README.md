@@ -5,10 +5,17 @@
   <sub>Nintendo DS · Europe</sub>
 </p>
 
+<p align="center">
+  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><img src="https://img.shields.io/github/v/release/alejandrobujan/dbsw-battle-arena?style=for-the-badge&label=download&color=f59e0b" alt="Download"></a>
+  <a href="https://www.romhacking.net/hacks/10080/"><img src="https://img.shields.io/badge/romhacking.net-hack%20%2310080-1f6feb?style=for-the-badge" alt="Romhacking.net"></a>
+  <a href="#license--licencia"><img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge" alt="License: CC BY-NC-SA 4.0"></a>
+</p>
+
 <p align="center"><img src="screenshots/all.gif" alt="Battle Arena" width="320"></p>
 
 <p align="center">
   <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.0</b></a>
+  &nbsp;·&nbsp; <a href="https://www.romhacking.net/hacks/10080/">Romhacking.net</a>
   &nbsp;·&nbsp; <a href="#english">English</a>
   &nbsp;·&nbsp; <a href="#español">Español</a>
   &nbsp;·&nbsp; <a href="#license--licencia">License</a>
@@ -28,6 +35,8 @@ Battle team select and never leaves it. The battle engine is the original one.
 
 Several new characters never seen in the original Supersonic Warriors games are
 waiting to be unlocked in battle. Find out who they are.
+
+Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
 ### How to patch
 
@@ -72,6 +81,8 @@ original.
 
 Unos cuantos personajes nuevos, inéditos en la saga original de Supersonic Warriors,
 esperan a ser desbloqueados combatiendo. Descubre quiénes son.
+
+También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
 ### Cómo parchear
 
