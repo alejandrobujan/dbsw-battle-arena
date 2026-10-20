@@ -14,7 +14,7 @@
 <p align="center"><img src="screenshots/all.gif" alt="Battle Arena" width="320"></p>
 
 <p align="center">
-  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.2</b></a>
+  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.2.1</b></a>
   &nbsp;·&nbsp; <a href="https://www.romhacking.net/hacks/10080/">Romhacking.net</a>
   &nbsp;·&nbsp; <a href="#english">English</a>
   &nbsp;·&nbsp; <a href="#español">Español</a>
@@ -38,6 +38,11 @@ waiting to be unlocked in battle. Find out who they are.
 
 Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
+### What's new in 1.2.1
+
+- Fixed: new characters' auras, ki blasts and special moves used their base character's colours
+  instead of their own.
+
 ### What's new in 1.2
 
 - Improved sprites for several characters.
@@ -54,16 +59,16 @@ Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Apply [`patch/DBSW-BattleArena-v1.2.xdelta`](patch/DBSW-BattleArena-v1.2.xdelta) to it with any xdelta tool:
+2. Apply [`patch/DBSW-BattleArena-v1.2.1.xdelta`](patch/DBSW-BattleArena-v1.2.1.xdelta) to it with any xdelta tool:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in a browser)
    - Delta Patcher (Windows / macOS / Linux)
-   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.xdelta battle_arena.nds`
+   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.1.xdelta battle_arena.nds`
 3. The patched ROM must match:
 
    | | |
    |---|---|
-   | SHA-1 | `d6522de9729dd922b814af8476f92931f4771169` |
-   | MD5 | `96e5d39f5b957efa5e79b925ac715d9d` |
+   | SHA-1 | `a251db71a6ec5837fcc343f8d070bd1738cf0721` |
+   | MD5 | `3cfcaa380a2369fe69783b55da9944b4` |
 
 4. Play it on a flashcart or an emulator (melonDS, DeSmuME…).
 
@@ -89,6 +94,11 @@ esperan a ser desbloqueados combatiendo. Descubre quiénes son.
 
 También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
+### Novedades de la 1.2.1
+
+- Arreglado: las auras, ráfagas de ki y ataques especiales de los personajes nuevos usaban los
+  colores de su personaje base en vez de los suyos propios.
+
 ### Novedades de la 1.2
 
 - Sprites mejorados para varios personajes.
@@ -105,16 +115,16 @@ También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Aplícale [`patch/DBSW-BattleArena-v1.2.xdelta`](patch/DBSW-BattleArena-v1.2.xdelta) con cualquier herramienta xdelta:
+2. Aplícale [`patch/DBSW-BattleArena-v1.2.1.xdelta`](patch/DBSW-BattleArena-v1.2.1.xdelta) con cualquier herramienta xdelta:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (en el navegador)
    - Delta Patcher (Windows / macOS / Linux)
-   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.xdelta battle_arena.nds`
+   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.1.xdelta battle_arena.nds`
 3. La ROM parcheada debe coincidir con:
 
    | | |
    |---|---|
-   | SHA-1 | `d6522de9729dd922b814af8476f92931f4771169` |
-   | MD5 | `96e5d39f5b957efa5e79b925ac715d9d` |
+   | SHA-1 | `a251db71a6ec5837fcc343f8d070bd1738cf0721` |
+   | MD5 | `3cfcaa380a2369fe69783b55da9944b4` |
 
 4. Juega en una flashcart o un emulador (melonDS, DeSmuME…).
 
