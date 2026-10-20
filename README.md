@@ -14,7 +14,7 @@
 <p align="center"><img src="screenshots/all.gif" alt="Battle Arena" width="320"></p>
 
 <p align="center">
-  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.1</b></a>
+  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.2</b></a>
   &nbsp;·&nbsp; <a href="https://www.romhacking.net/hacks/10080/">Romhacking.net</a>
   &nbsp;·&nbsp; <a href="#english">English</a>
   &nbsp;·&nbsp; <a href="#español">Español</a>
@@ -38,15 +38,10 @@ waiting to be unlocked in battle. Find out who they are.
 
 Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
-### What's new in 1.1
+### What's new in 1.2
 
-- New characters' stats are now balanced according to their Dragon Power cost.
-- Fixed: pressing Start and then B could drop a new character's DP cost to its base's,
-  letting a team go over the 9 DP limit.
-- Neko Majin, exclusive to the Japanese release of the original game, joins as a support
-  character.
-- Improved sprites for Ultimate Gohan and Goku (Super Saiyan 4). They are still a work in
-  progress and will keep improving in future updates.
+- Improved sprites for several characters.
+- Better framing for some character icons.
 
 ### How to patch
 
@@ -59,16 +54,16 @@ Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Apply [`patch/DBSW-BattleArena-v1.1.xdelta`](patch/DBSW-BattleArena-v1.1.xdelta) to it with any xdelta tool:
+2. Apply [`patch/DBSW-BattleArena-v1.2.xdelta`](patch/DBSW-BattleArena-v1.2.xdelta) to it with any xdelta tool:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in a browser)
    - Delta Patcher (Windows / macOS / Linux)
-   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.1.xdelta battle_arena.nds`
+   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.xdelta battle_arena.nds`
 3. The patched ROM must match:
 
    | | |
    |---|---|
-   | SHA-1 | `58a3794cd2e7cfb39e2095878b13a7f50875fef2` |
-   | MD5 | `68889bc83d71f3149e2398c84e277658` |
+   | SHA-1 | `d6522de9729dd922b814af8476f92931f4771169` |
+   | MD5 | `96e5d39f5b957efa5e79b925ac715d9d` |
 
 4. Play it on a flashcart or an emulator (melonDS, DeSmuME…).
 
@@ -94,16 +89,10 @@ esperan a ser desbloqueados combatiendo. Descubre quiénes son.
 
 También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
-### Novedades de la 1.1
+### Novedades de la 1.2
 
-- Las estadísticas de los personajes nuevos se han balanceado acorde a su coste de Dragon
-  Power.
-- Arreglado: pulsar Start y luego B podía bajar el coste de DP de un personaje nuevo al de
-  su base y dejar pasar del límite de 9 DP.
-- Neko Majin, exclusivo de la versión japonesa del juego original, se une como personaje de
-  apoyo.
-- Sprites mejorados para Gohan Definitivo y Goku (Super Saiyan 4). Siguen siendo un trabajo
-  en curso y seguirán mejorando en próximas versiones.
+- Sprites mejorados para varios personajes.
+- Mejor encuadre de algunos iconos de personajes.
 
 ### Cómo parchear
 
@@ -116,16 +105,16 @@ También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Aplícale [`patch/DBSW-BattleArena-v1.1.xdelta`](patch/DBSW-BattleArena-v1.1.xdelta) con cualquier herramienta xdelta:
+2. Aplícale [`patch/DBSW-BattleArena-v1.2.xdelta`](patch/DBSW-BattleArena-v1.2.xdelta) con cualquier herramienta xdelta:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (en el navegador)
    - Delta Patcher (Windows / macOS / Linux)
-   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.1.xdelta battle_arena.nds`
+   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.xdelta battle_arena.nds`
 3. La ROM parcheada debe coincidir con:
 
    | | |
    |---|---|
-   | SHA-1 | `58a3794cd2e7cfb39e2095878b13a7f50875fef2` |
-   | MD5 | `68889bc83d71f3149e2398c84e277658` |
+   | SHA-1 | `d6522de9729dd922b814af8476f92931f4771169` |
+   | MD5 | `96e5d39f5b957efa5e79b925ac715d9d` |
 
 4. Juega en una flashcart o un emulador (melonDS, DeSmuME…).
 
