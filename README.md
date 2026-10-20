@@ -14,7 +14,7 @@
 <p align="center"><img src="screenshots/all.gif" alt="Battle Arena" width="320"></p>
 
 <p align="center">
-  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.2.1</b></a>
+  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.2.2</b></a>
   &nbsp;·&nbsp; <a href="https://www.romhacking.net/hacks/10080/">Romhacking.net</a>
   &nbsp;·&nbsp; <a href="#english">English</a>
   &nbsp;·&nbsp; <a href="#español">Español</a>
@@ -38,6 +38,20 @@ waiting to be unlocked in battle. Find out who they are.
 
 Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
+### What's new in 1.2.2
+
+- Fixed: the Team Arts portraits of the new characters had no white frame separating them.
+- Fixed: the new characters' faces in the team boxes and the VS screen covered the corners of their
+  frames.
+- Fixed: new characters based on Super Saiyan Vegeta turned into Majin Vegeta when their team had the
+  support that triggers it.
+- Fixed: characters were recoloured when fighting an opponent built on the same base character.
+- Fixed: characters built on the same base character could not be in the same team.
+- Fixed: bugs that made some already unlocked characters impossible to use.
+- Fixed: a main character could not be used because a support character duplicated it.
+- Fixed: some parts of the new characters' ki blasts used the normal colours instead of their own.
+- Fixed: new characters could take part in Team Arts meant for their base character.
+
 ### What's new in 1.2.1
 
 - Fixed: new characters' auras, ki blasts and special moves used their base character's colours
@@ -59,16 +73,16 @@ Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Apply [`patch/DBSW-BattleArena-v1.2.1.xdelta`](patch/DBSW-BattleArena-v1.2.1.xdelta) to it with any xdelta tool:
+2. Apply [`patch/DBSW-BattleArena-v1.2.2.xdelta`](patch/DBSW-BattleArena-v1.2.2.xdelta) to it with any xdelta tool:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in a browser)
    - Delta Patcher (Windows / macOS / Linux)
-   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.1.xdelta battle_arena.nds`
+   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.2.xdelta battle_arena.nds`
 3. The patched ROM must match:
 
    | | |
    |---|---|
-   | SHA-1 | `a251db71a6ec5837fcc343f8d070bd1738cf0721` |
-   | MD5 | `3cfcaa380a2369fe69783b55da9944b4` |
+   | SHA-1 | `6c8b8e110722bef8be3eafecfa60211680fb7146` |
+   | MD5 | `a47fca91aab3e6e8e663ec1b01bae06e` |
 
 4. Play it on a flashcart or an emulator (melonDS, DeSmuME…).
 
@@ -94,6 +108,22 @@ esperan a ser desbloqueados combatiendo. Descubre quiénes son.
 
 También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
 
+### Novedades de la 1.2.2
+
+- Arreglado: los retratos de Team Arts de los personajes nuevos no tenían el marco blanco que los
+  separa.
+- Arreglado: las caras de los personajes nuevos en los recuadros del equipo y del VS tapaban las
+  esquinas del marco.
+- Arreglado: los personajes nuevos con base Vegeta Super Saiyan se convertían en Majin Vegeta cuando
+  el equipo llevaba el support que lo provoca.
+- Arreglado: los personajes se recoloreaban al combatir contra rivales de la misma base.
+- Arreglado: no se podían usar personajes de la misma base en el mismo equipo.
+- Arreglado: errores que imposibilitaban el uso de ciertos personajes ya desbloqueados.
+- Arreglado: un personaje principal no se podía usar por estar repetido en un personaje support.
+- Arreglado: algunas partes de las ráfagas de ki de los personajes nuevos salían con los colores
+  normales en vez de los suyos.
+- Arreglado: los personajes nuevos podían participar en Team Arts de su personaje base.
+
 ### Novedades de la 1.2.1
 
 - Arreglado: las auras, ráfagas de ki y ataques especiales de los personajes nuevos usaban los
@@ -115,16 +145,16 @@ También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Aplícale [`patch/DBSW-BattleArena-v1.2.1.xdelta`](patch/DBSW-BattleArena-v1.2.1.xdelta) con cualquier herramienta xdelta:
+2. Aplícale [`patch/DBSW-BattleArena-v1.2.2.xdelta`](patch/DBSW-BattleArena-v1.2.2.xdelta) con cualquier herramienta xdelta:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (en el navegador)
    - Delta Patcher (Windows / macOS / Linux)
-   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.1.xdelta battle_arena.nds`
+   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.2.xdelta battle_arena.nds`
 3. La ROM parcheada debe coincidir con:
 
    | | |
    |---|---|
-   | SHA-1 | `a251db71a6ec5837fcc343f8d070bd1738cf0721` |
-   | MD5 | `3cfcaa380a2369fe69783b55da9944b4` |
+   | SHA-1 | `6c8b8e110722bef8be3eafecfa60211680fb7146` |
+   | MD5 | `a47fca91aab3e6e8e663ec1b01bae06e` |
 
 4. Juega en una flashcart o un emulador (melonDS, DeSmuME…).
 
