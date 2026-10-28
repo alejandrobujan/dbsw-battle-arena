@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><img src="https://img.shields.io/github/v/release/alejandrobujan/dbsw-battle-arena?style=for-the-badge&label=download&color=f59e0b" alt="Download"></a>
+  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><img src="https://img.shields.io/badge/download-v1.3-f59e0b?style=for-the-badge" alt="Download v1.3"></a>
   <a href="https://www.romhacking.net/hacks/10080/"><img src="https://img.shields.io/badge/romhacking.net-hack%20%2310080-1f6feb?style=for-the-badge" alt="Romhacking.net"></a>
   <a href="#license--licencia"><img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge" alt="License: CC BY-NC-SA 4.0"></a>
 </p>
