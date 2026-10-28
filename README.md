@@ -14,7 +14,7 @@
 <p align="center"><img src="screenshots/all.gif" alt="Battle Arena" width="320"></p>
 
 <p align="center">
-  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.2.2</b></a>
+  <a href="https://github.com/alejandrobujan/dbsw-battle-arena/releases/latest"><b>Download v1.3</b></a>
   &nbsp;·&nbsp; <a href="https://www.romhacking.net/hacks/10080/">Romhacking.net</a>
   &nbsp;·&nbsp; <a href="#english">English</a>
   &nbsp;·&nbsp; <a href="#español">Español</a>
@@ -30,13 +30,23 @@
 
 ## English
 
-A pure fighting version of Supersonic Warriors 2: the game boots straight into Free
-Battle team select and never leaves it. The battle engine is the original one.
+A pure fighting version of Supersonic Warriors 2, with no story mode: Arena (free
+battles), DB Battle (a run of rounds against rival teams), Practice and Options. The
+battle engine is the original one.
 
 Several new characters never seen in the original Supersonic Warriors games are
 waiting to be unlocked in battle. Find out who they are.
 
 Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
+
+### What's new in 1.3
+
+- New mode menu: Arena (formerly Free Battle), DB Battle, Practice and Options.
+- DB Battle (formerly Z-Battle) is back: 8 rounds against rival teams, on any stage.
+  Clearing it has its reward.
+- 4 new stages, with a new stage select.
+- Every Team Art and the special abilities (Super Saiyan and the like, ultimate attacks)
+  of the original game's characters are available from the start.
 
 ### What's new in 1.2.2
 
@@ -73,16 +83,16 @@ Also listed on [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Apply [`patch/DBSW-BattleArena-v1.2.2.xdelta`](patch/DBSW-BattleArena-v1.2.2.xdelta) to it with any xdelta tool:
+2. Apply [`patch/DBSW-BattleArena-v1.3.xdelta`](patch/DBSW-BattleArena-v1.3.xdelta) to it with any xdelta tool:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in a browser)
    - Delta Patcher (Windows / macOS / Linux)
-   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.2.xdelta battle_arena.nds`
+   - command line: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.3.xdelta battle_arena.nds`
 3. The patched ROM must match:
 
    | | |
    |---|---|
-   | SHA-1 | `6c8b8e110722bef8be3eafecfa60211680fb7146` |
-   | MD5 | `a47fca91aab3e6e8e663ec1b01bae06e` |
+   | SHA-1 | `03b2d2021d642d02d9d5a87834bb5ffab66a5054` |
+   | MD5 | `3441a021ea8ee4feb0f476f0fab62623` |
 
 4. Play it on a flashcart or an emulator (melonDS, DeSmuME…).
 
@@ -99,14 +109,23 @@ Open an issue or write to **[hi@alejandrobujan.com](mailto:hi@alejandrobujan.com
 
 ## Español
 
-Una versión de puro combate de Supersonic Warriors 2: el juego arranca directamente
-en la selección de equipos de Free Battle y no sale de ahí. El motor de combate es el
-original.
+Una versión de puro combate de Supersonic Warriors 2, sin modo historia: Arena
+(combates libres), DB Battle (una serie de rondas contra equipos rivales), Práctica y
+Opciones. El motor de combate es el original.
 
 Unos cuantos personajes nuevos, inéditos en la saga original de Supersonic Warriors,
 esperan a ser desbloqueados combatiendo. Descubre quiénes son.
 
 También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
+
+### Novedades de la 1.3
+
+- Nuevo menú de modos: Arena (antes Free Battle), DB Battle, Práctica y Opciones.
+- Vuelve DB Battle (antes Z-Battle): 8 rondas contra equipos rivales, en cualquier
+  escenario. Completarlo tiene premio.
+- 4 escenarios nuevos, con una nueva selección de escenario.
+- Todos los Team Arts y las habilidades especiales (Super Saiyan y similares, ataques
+  definitivos) de los personajes del juego original disponibles desde el principio.
 
 ### Novedades de la 1.2.2
 
@@ -145,16 +164,16 @@ También está en [Romhacking.net](https://www.romhacking.net/hacks/10080/).
    | MD5 | `dffae2dfce8cb052197094d488b96042` |
    | CRC32 | `0e001277` |
 
-2. Aplícale [`patch/DBSW-BattleArena-v1.2.2.xdelta`](patch/DBSW-BattleArena-v1.2.2.xdelta) con cualquier herramienta xdelta:
+2. Aplícale [`patch/DBSW-BattleArena-v1.3.xdelta`](patch/DBSW-BattleArena-v1.3.xdelta) con cualquier herramienta xdelta:
    - [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (en el navegador)
    - Delta Patcher (Windows / macOS / Linux)
-   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.2.2.xdelta battle_arena.nds`
+   - línea de comandos: `xdelta3 -d -s original.nds DBSW-BattleArena-v1.3.xdelta battle_arena.nds`
 3. La ROM parcheada debe coincidir con:
 
    | | |
    |---|---|
-   | SHA-1 | `6c8b8e110722bef8be3eafecfa60211680fb7146` |
-   | MD5 | `a47fca91aab3e6e8e663ec1b01bae06e` |
+   | SHA-1 | `03b2d2021d642d02d9d5a87834bb5ffab66a5054` |
+   | MD5 | `3441a021ea8ee4feb0f476f0fab62623` |
 
 4. Juega en una flashcart o un emulador (melonDS, DeSmuME…).
 
